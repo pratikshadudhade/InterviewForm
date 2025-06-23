@@ -1,6 +1,24 @@
-div
+.container
 {
-    height:500px;
-    width: 400px;
+    background-color: white;
+    height:100vh;
+    width: 300PX;
     border: 1px solid white;
+    justify-content: center;
+}
+body
+{
+    background-color: black;
+    color: black;
+}
+.submit
+{
+    background-color: deepskyblue;
+    border-radius: 60px;
+}
+.pratiksha
+{
+    height: 20px;
+    width: 250px;
+    background-color : white;
 }
